@@ -12,6 +12,12 @@ Type a city name and get its live weather: the current conditions and a 3-day fo
 - Clear error messages, with a Retry button that repeats the last search
 - Responsive, mobile-first layout with one breakpoint at 600px
 
+## Screenshots
+
+| Beirut | City not found | Mobile |
+|---|---|---|
+| ![Beirut](screenshots/beirut.png) | ![City not found](screenshots/citynotfound.png) | ![Mobile layout](screenshots/mobile.png) |
+
 ## Getting started
 
 You need [Node.js](https://nodejs.org) (version 20 or later) and npm.
